@@ -1,0 +1,10 @@
+InterList:
+- Configuracao: DEV
+  Nome: Desenvolvimento - Piffer Server
+  Ip: 192.168.1.66
+  Port: 6900
+  Database:
+   Login: root
+   Password: vertrigo
+   Server: 192.168.1.66
+   Database: zemulator

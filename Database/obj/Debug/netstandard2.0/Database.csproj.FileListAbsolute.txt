@@ -1,0 +1,5 @@
+Z:\Projetos\ZEmulator\ZEmulator\Database\bin\Debug\netstandard2.0\Database.deps.json
+Z:\Projetos\ZEmulator\ZEmulator\Database\bin\Debug\netstandard2.0\Database.dll
+Z:\Projetos\ZEmulator\ZEmulator\Database\obj\Debug\netstandard2.0\Database.csprojAssemblyReference.cache
+Z:\Projetos\ZEmulator\ZEmulator\Database\obj\Debug\netstandard2.0\Database.AssemblyInfoInputs.cache
+Z:\Projetos\ZEmulator\ZEmulator\Database\obj\Debug\netstandard2.0\Database.AssemblyInfo.cs

@@ -1,0 +1,5 @@
+Z:\Projetos\ZEmulator\ZEmulator\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+Z:\Projetos\ZEmulator\ZEmulator\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+Z:\Projetos\ZEmulator\ZEmulator\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+Z:\Projetos\ZEmulator\ZEmulator\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+Z:\Projetos\ZEmulator\ZEmulator\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
