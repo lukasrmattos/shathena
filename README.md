@@ -1,5 +1,5 @@
 # shathena
-A Ragnarok-Online C# Emulator
+A Ragnarok-Online C# Emulator build just as hobby.
 
 Work-In Progress...
 
